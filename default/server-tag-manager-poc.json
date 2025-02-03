@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1738598977394,
+    "description" : "",
+    "identifier" : "server-tag-manager-poc",
+    "lastModifiedTimestamp" : 1738598977394,
+    "name" : "server-tag-manager-poc",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
