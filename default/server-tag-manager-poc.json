@@ -45,7 +45,7 @@
         "comments" : "",
         "groupId" : "flow-contents-group",
         "id" : "af75d82b-1138-3982-85fa-333b48717e9d",
-        "name" : "ReplaceText",
+        "name" : "ResponseGenerator",
         "type" : "PROCESSOR"
       },
       "flowFileExpiration" : "0 sec",
@@ -92,7 +92,7 @@
         "comments" : "",
         "groupId" : "flow-contents-group",
         "id" : "af75d82b-1138-3982-85fa-333b48717e9d",
-        "name" : "ReplaceText",
+        "name" : "ResponseGenerator",
         "type" : "PROCESSOR"
       },
       "zIndex" : 0
@@ -2145,7 +2145,7 @@
       "groupIdentifier" : "flow-contents-group",
       "identifier" : "af75d82b-1138-3982-85fa-333b48717e9d",
       "maxBackoffPeriod" : "10 mins",
-      "name" : "ReplaceText",
+      "name" : "ResponseGenerator",
       "penaltyDuration" : "30 sec",
       "position" : {
         "x" : -1784.0,
