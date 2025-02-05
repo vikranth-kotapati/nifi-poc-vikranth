@@ -50,7 +50,7 @@
         "comments" : "",
         "groupId" : "flow-contents-group",
         "id" : "3d57c2c3-3870-3d40-aadf-32ba6814db4b",
-        "name" : "UpdateAttribute",
+        "name" : "UpdateFileName",
         "type" : "PROCESSOR"
       },
       "flowFileExpiration" : "0 sec",
@@ -97,7 +97,7 @@
         "comments" : "",
         "groupId" : "flow-contents-group",
         "id" : "3d57c2c3-3870-3d40-aadf-32ba6814db4b",
-        "name" : "UpdateAttribute",
+        "name" : "UpdateFileName",
         "type" : "PROCESSOR"
       },
       "zIndex" : 0
@@ -574,7 +574,7 @@
       "groupIdentifier" : "flow-contents-group",
       "identifier" : "3d57c2c3-3870-3d40-aadf-32ba6814db4b",
       "maxBackoffPeriod" : "10 mins",
-      "name" : "UpdateAttribute",
+      "name" : "UpdateFileName",
       "penaltyDuration" : "30 sec",
       "position" : {
         "x" : -1848.0,
