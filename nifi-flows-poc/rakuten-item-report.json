@@ -37,7 +37,7 @@
         "comments" : "Used to generate a flow file with custom attributes such as API keys, query params and forward them to its successor processor.",
         "groupId" : "flow-contents-group",
         "id" : "60949f5a-f400-3037-9714-ae2ea79eaaf6",
-        "name" : "GenerateFlowFile",
+        "name" : "GenerateRakutenAPIAttributes",
         "type" : "PROCESSOR"
       },
       "zIndex" : 0
@@ -437,7 +437,7 @@
       "groupIdentifier" : "flow-contents-group",
       "identifier" : "60949f5a-f400-3037-9714-ae2ea79eaaf6",
       "maxBackoffPeriod" : "10 mins",
-      "name" : "GenerateFlowFile",
+      "name" : "GenerateRakutenAPIAttributes",
       "penaltyDuration" : "30 sec",
       "position" : {
         "x" : -1856.0,
@@ -553,7 +553,7 @@
       "retryCount" : 10,
       "runDurationMillis" : 0,
       "scheduledState" : "ENABLED",
-      "schedulingPeriod" : "15 11 * * * ?",
+      "schedulingPeriod" : "30 11 * * * ?",
       "schedulingStrategy" : "CRON_DRIVEN",
       "style" : { },
       "type" : "org.apache.nifi.processors.standard.GenerateFlowFile",
