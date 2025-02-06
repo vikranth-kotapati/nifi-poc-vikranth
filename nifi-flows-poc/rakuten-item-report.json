@@ -20,7 +20,7 @@
         "comments" : "",
         "groupId" : "flow-contents-group",
         "id" : "c79761c5-8ee5-3527-bb96-3eaabeb3cf53",
-        "name" : "InvokeHTTP",
+        "name" : "InvokeRakutenAPI",
         "type" : "PROCESSOR"
       },
       "flowFileExpiration" : "0 sec",
@@ -67,7 +67,7 @@
         "comments" : "",
         "groupId" : "flow-contents-group",
         "id" : "c79761c5-8ee5-3527-bb96-3eaabeb3cf53",
-        "name" : "InvokeHTTP",
+        "name" : "InvokeRakutenAPI",
         "type" : "PROCESSOR"
       },
       "zIndex" : 0
@@ -139,7 +139,7 @@
       "groupIdentifier" : "flow-contents-group",
       "identifier" : "c79761c5-8ee5-3527-bb96-3eaabeb3cf53",
       "maxBackoffPeriod" : "10 mins",
-      "name" : "InvokeHTTP",
+      "name" : "InvokeRakutenAPI",
       "penaltyDuration" : "30 sec",
       "position" : {
         "x" : -1840.0,
