@@ -838,14 +838,14 @@
           "group" : "org.apache.nifi",
           "version" : "2.4.0"
         },
-        "type" : "org.apache.nifi.processors.aws.credentials.provider.AwsCredentialsProviderService"
+        "type" : "org.apache.nifi.processors.aws.credentials.provider.service.AWSCredentialsProviderService"
       }, {
         "bundle" : {
           "artifact" : "nifi-aws-service-api-nar",
           "group" : "org.apache.nifi",
           "version" : "2.4.0"
         },
-        "type" : "org.apache.nifi.processors.aws.credentials.provider.service.AWSCredentialsProviderService"
+        "type" : "org.apache.nifi.processors.aws.credentials.provider.AwsCredentialsProviderService"
       } ],
       "groupIdentifier" : "flow-contents-group",
       "identifier" : "084f3510-ff38-3846-9a1e-34d2166028ef",
@@ -1172,11 +1172,26 @@
       "componentType" : "LABEL",
       "groupIdentifier" : "flow-contents-group",
       "height" : 72.0,
+      "identifier" : "1abba573-a59e-3a34-0000-000069b1dc1b",
+      "label" : "Route based POST method authorization",
+      "position" : {
+        "x" : 1400.0,
+        "y" : -584.0
+      },
+      "style" : {
+        "font-size" : "18px"
+      },
+      "width" : 208.0,
+      "zIndex" : 0
+    }, {
+      "componentType" : "LABEL",
+      "groupIdentifier" : "flow-contents-group",
+      "height" : 72.0,
       "identifier" : "2b15ab45-81e1-3632-b1df-dbc79607cece",
       "label" : "Route based on the http.method ",
       "position" : {
-        "x" : 760.0,
-        "y" : -640.0
+        "x" : 712.0,
+        "y" : -592.0
       },
       "style" : {
         "font-size" : "18px"
