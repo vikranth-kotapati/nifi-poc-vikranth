@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1753089765065,
+    "description" : "This flow is used to process the http requests from web and store them in s3",
+    "identifier" : "web-events-handler",
+    "lastModifiedTimestamp" : 1753089765065,
+    "name" : "web-events-handler",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
